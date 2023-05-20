@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">application_3</string>
+    <string name="buscar_personal">Buscar Personal</string>
+<!--    <string name="nombre">Nombre</string>-->
+<!--    <string name="email">Email</string>-->
+<!--    <string name="dni">DNI</string>-->
+<!--    <string name="botonIngreso">BotonIngreso</string>-->
+<!--    <string name="showdata">ShowData</string>-->
+    <string-array name="languajes">
+        <item>Choose a technology </item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>Html</item>
+    </string-array>
+</resources>
